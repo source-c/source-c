@@ -1,9 +1,9 @@
 ### 👋 A bit about myself:
-- Business Developer
-- Distributed Systems Expert 
-- IT Business Partner
-- Mentor
-- Practical Software Architect
+- 🌱 Business Developer
+- ⚡ Distributed Systems Expert 
+- 👯 IT Business Partner
+- 💬 Mentor
+- 🔭 Practical Software Architect
 
 <!--
 **source-c/source-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
