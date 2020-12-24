@@ -1,4 +1,4 @@
-### 👋 A bit about myself:
+### 👋 A little bit about me:
 - 🌱 Business Developer
 - ⚡ Distributed Systems Expert 
 - 👯 IT Business Partner
