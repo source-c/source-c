@@ -4,6 +4,7 @@
 - 👯 IT Business Partner
 - 💬 Mentor
 - 🔭 Practical Software Architect
+- ✨ Occasional Chief Engineer and Software Developer
 
 ### ... and even more
 
