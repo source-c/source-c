@@ -6,7 +6,7 @@
 - 🔭 Practical Software Architect
 - ✨ Seasoned Chief Engineer and occasionally Software Developer
 
-### ... and even more
+### ... and the spices to the soup
 
 - I personaly interested in real AI and SONs, distributed systems and crypto and of course I always open to new challenges where my empirical experience of the long years practice might be applicable and efficient :)
 - I'm not doing hype things in YT/FB/IG, have no public/blogger activities and definitely not going to do it in future
