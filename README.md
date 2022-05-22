@@ -1,8 +1,8 @@
 ### 👋 A little bit about me:
-- 🌱 Business Developer
-- ⚡ Distributed Systems Expert 
-- 👯 IT Business Partner
 - 💬 Mentor
+- 🌱 Business Developer
+- 👯 IT Business Partner
+- ⚡ Distributed Systems Expert 
 - 🔭 Practical Software Architect
 - ✨ Occasional Chief Engineer and Software Developer
 
