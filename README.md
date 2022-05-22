@@ -4,7 +4,7 @@
 - 👯 IT Business Partner
 - ⚡ Distributed Systems Expert 
 - 🔭 Practical Software Architect
-- ✨ Occasional Chief Engineer and Software Developer
+- ✨ Seasoned Chief Engineer and occasionally Software Developer
 
 ### ... and even more
 
