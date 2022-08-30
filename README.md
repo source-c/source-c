@@ -14,6 +14,8 @@
 - I always ready to learn something new
 - I believe that our personal time is our most expensive treasure
 
+📫 How to reach me: follow me on [LinkedIn](https://www.linkedin.com/in/ai-pro/) or, in case you wanna contact me directly - try to write me an PM/InMail there.
+
 <!--
 **source-c/source-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
