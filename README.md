@@ -1,4 +1,5 @@
 ### 👋 A little bit about me:
+
 - 💬 Mentor
 - 🌱 Business Developer
 - 👯 IT Business Partner
@@ -15,6 +16,15 @@
 - I believe that our personal time is our most expensive treasure
 
 📫 How to reach me: follow me on [LinkedIn](https://www.linkedin.com/in/ai-pro/) or, in case you wanna contact me directly - try to write me an PM/InMail there.
+
+### Also see
+
+- [Public gists](https://gist.github.com/source-c)
+- Public contributions to (sponsoring available)
+  - [@fern-flower-lab](https://github.com/fern-flower-lab)
+  - [@updcon](https://github.com/updcon)
+  - [@dkdhub](https://github.com/dkdhub)
+  - [@tbt-post](https://github.com/tbt-post)
 
 <!--
 **source-c/source-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
