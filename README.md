@@ -20,7 +20,7 @@
 ### Also see
 
 - [Public gists](https://gist.github.com/source-c)
-- Public contributions to (sponsoring available)
+- Public contributions
   - [@fern-flower-lab](https://github.com/fern-flower-lab)
   - [@updcon](https://github.com/updcon)
   - [@dkdhub](https://github.com/dkdhub)
