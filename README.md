@@ -13,7 +13,7 @@
 - I'm not doing hype things in YT/FB/IG, have no public/blogger activities and definitely not going to do it in future
 - I periodically conduct closed consultative sessions and seminars on topics that are close to me and in which I have sufficient experience
 - I am always ready to learn something new
-- I believe that our personal time is our most expensive treasure
+- I believe that our personal time is our most expensive treasure, is a most valuable asset we have, and the same time it is a precious resource that is not renewable. 
 
 📫 How to reach me: follow me on [LinkedIn](https://www.linkedin.com/in/ai-pro/) or, in case you wanna contact me directly - try to write me an PM/InMail there.
 
