@@ -5,17 +5,22 @@
 - 👯 IT Business Partner
 - ⚡ Distributed Systems Expert 
 - 🔭 Practical Software Architect
-- ✨ Seasoned Chief Engineer and occasionally Software Developer
+- ✨ Seasoned Chief Engineer and (occasionally) Software Developer
 
-### ... and the spices to the soup
+### ... and some spices
 
-- I personally interested in real AI and SONs, distributed systems and crypto and of course I am always open to new challenges where my empirical experience of the long years practice might be applicable and efficient :)
-- I'm not doing hype things in YT/FB/IG, have no public/blogger activities and definitely not going to do it in future
-- I periodically conduct closed consultative sessions and seminars on topics that are close to me and in which I have sufficient experience
-- I am always ready to learn something new
-- I believe that our personal time is our most expensive treasure, is a most valuable asset we have, and the same time it is a precious resource that is not renewable. 
+- I am an apologist of a real AI and SONs, distributed systems and crypto and of course I am always open to new challenges where my empirical experience and the years of practice are applicable and efficient
+- I have no YT/FB/IG or any other hyped and enterprise oriented media stuff, instead I prefer open platforms and real-life activities
+- I may periodically conduct closed consultative sessions and seminars on topics that are impressing me
+- I am always ready to learn something new, do academic studies, and have a thought that learning is a continuous process and an inalienable part of our life
+- I believe that our personal time is our most expensive treasure, is a most valuable asset we have, and at the same time it is a precious and non-renewable to waste it on nonsense
 
-📫 How to reach me: follow me on [LinkedIn](https://www.linkedin.com/in/ai-pro/) or, in case you wanna contact me directly - try to write me an PM/InMail there.
+📫 How to reach me: 
+
+- follow me on [LinkedIn](https://www.linkedin.com/in/ai-pro/), or in case you wanna contact me directly - try to write me an PM/InMail there
+- subscribe me on [Substack](https://canny.substack.com/)
+
+Everything else is unreliable, slow and has a low priority for me. 
 
 ### Also see
 
