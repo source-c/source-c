@@ -18,7 +18,7 @@
 📫 How to reach me: 
 
 - follow me on [LinkedIn](https://www.linkedin.com/in/ai-pro/), or in case you wanna contact me directly - try to write me an PM/InMail there
-- subscribe me on [Substack](https://canny.substack.com/)
+- subscribe to me on [Substack](https://canny.substack.com/)
 
 Everything else is unreliable, slow and has a low priority for me. 
 
