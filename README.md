@@ -19,6 +19,7 @@
 
 - follow me on [LinkedIn](https://www.linkedin.com/in/ai-pro/), or in case you wanna contact me directly - try to write me an PM/InMail there
 - subscribe to me on [Substack](https://canny.substack.com/)
+- find me in Nostr: `npub1r8vwncwpymx4mrvj4zgkrragnxulfazvfjnd80k9r0ahc55cgs6q0pkmca`
 
 Everything else is unreliable, slow and has a low priority for me. 
 
