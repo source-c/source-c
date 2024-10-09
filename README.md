@@ -30,7 +30,6 @@ Everything else is unreliable, slow and has a low priority for me.
   - [@fern-flower-lab](https://github.com/fern-flower-lab)
   - [@updcon](https://github.com/updcon)
   - [@dkdhub](https://github.com/dkdhub)
-- For other programming activities try your luck on study my GitLab (see in profile)
 
 <!--
 **source-c/source-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
