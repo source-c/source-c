@@ -1,47 +1,32 @@
-### 👋 A little bit about me:
+### 👋 A little bit about me  
 
-- 💬 Mentor
-- 🌱 Business Developer
-- 👯 IT Business Partner
-- ⚡ Distributed Systems Expert 
-- 🔭 Practical Software Architect
-- ✨ Seasoned Chief Engineer and (occasionally) Software Developer
+- 💬 Mentor  
+- 🌱 Business Developer  
+- 👯 IT Business Partner  
+- ⚡ Distributed Systems Expert  
+- 🔭 Hands-on Software Architect  
+- ✨ Chief Engineer and (sometimes) Software Developer  
 
-### ... and some spices
+### ... and some spices  
 
-- I am an apologist of a real AI and SONs, distributed systems and crypto and of course I am always open to new challenges where my empirical experience and the years of practice are applicable and efficient
-- I have no YouTube/Facebook/Instagram/... or any other hyped and enterprise oriented media stuff, instead I prefer open platforms and real-life activities
-- I may periodically conduct closed consultative sessions and seminars on topics that are impressing me
-- I am always ready to learn something new, do academic studies, and have a thought that learning is a continuous process and an inalienable part of our life
-- I believe that our personal time is our most expensive treasure, is a most valuable asset we have, and at the same time it is a precious and non-renewable to waste it on nonsense
+- I’m an advocate of real AI, self-organising networks, distributed systems, and crypto. Always open to challenges where practice, experience, and pragmatism actually matter.  
+- No YouTube, Facebook, Instagram or other overhyped corporate media. I prefer open platforms and real-life activities.  
+- From time to time, I run closed consultative sessions and seminars on topics that truly interest me.  
+- I’m always learning. Academic studies, practical experiments, new domains — I see learning as a lifelong and inalienable part of life.  
+- Time is our most expensive treasure — precious, non-renewable, and too valuable to waste on nonsense.  
 
-📫 How to reach me out: 
+📫 **How to reach me**  
 
-- follow me on [LinkedIn](https://www.linkedin.com/in/ai-pro/), or in case you wanna contact me directly - try to write me PM/InMail there
-- subscribe to me on [Substack](https://canny.substack.com/) (subject to change due to migration to nostr)
-- find me in Nostr: `npub1r8vwncwpymx4mrvj4zgkrragnxulfazvfjnd80k9r0ahc55cgs6q0pkmca`
+- [LinkedIn](https://www.linkedin.com/in/ai-pro/) — follow me, or send a PM/InMail if you want to connect directly.  
+- [Substack](https://canny.substack.com/) — for my writings (may migrate to Nostr).  
+- Nostr: `npub1r8vwncwpymx4mrvj4zgkrragnxulfazvfjnd80k9r0ahc55cgs6q0pkmca`  
 
-Everything else is unreliable, slow and has a low priority for me. 
+Everything else is unreliable, slow, and low priority.  
 
-### Also see
+### Also see  
 
-- [Public gists](https://gist.github.com/source-c)
-- Public contributions
-  - [@fern-flower-lab](https://github.com/fern-flower-lab)
-  - [@updcon](https://github.com/updcon)
-  - [@dkdhub](https://github.com/dkdhub)
-
-<!--
-**source-c/source-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Public gists](https://gist.github.com/source-c)  
+- Contributions:  
+  - [@fern-flower-lab](https://github.com/fern-flower-lab)  
+  - [@updcon](https://github.com/updcon)  
+  - [@dkdhub](https://github.com/dkdhub)  
