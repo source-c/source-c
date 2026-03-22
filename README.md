@@ -9,19 +9,19 @@
 
 ### ... and some spices  
 
-- I’m an advocate of real AI, self-organising networks, distributed systems, and crypto. Always open to challenges where practice, experience, and pragmatism actually matter.  
-- No YouTube, Facebook, Instagram or other overhyped corporate media. I prefer open platforms and real-life activities.  
-- From time to time, I run closed consultative sessions and seminars on topics that truly interest me.  
-- I’m always learning. Academic studies, practical experiments, new domains — I see learning as a lifelong and inalienable part of life.  
-- Time is our most expensive treasure — precious, non-renewable, and too valuable to waste on nonsense.  
+- I'm a firm believer in "real AI", self-organising networks, distributed systems, and crypto. Always keen for challenges where practice, experience, and pragmatism genuinely matter.
+- No time for YouTube, Facebook, Instagram, X, or any of that overhyped corporate media. I much prefer open platforms and genuine real-life activities.
+- Every now and then, I run closed consultative sessions and seminars on subjects that truly pique my interest.
+- I'm perpetually learning. Academic studies, practical experiments, new domains - I view learning as an inseparable and lifelong pursuit.
+- Time is our most precious commodity, the treasure - non-renewable and far too valuable to fritter away on nonsense.
 
 📫 **How to reach me**  
 
-- [LinkedIn](https://www.linkedin.com/in/ai-pro/) — follow me, or send a PM/InMail if you want to connect directly.  
-- [Substack](https://canny.substack.com/) — for my writings (may migrate to Nostr).  
+- [LinkedIn](https://www.linkedin.com/in/ai-pro/) — follow me, or send a PM/InMail if you wish to connect directly.  
+- [Substack](https://canny.substack.com/) — follow to read my writings (this may migrate to Nostr, so stay tuned).  
 - Nostr: `npub1r8vwncwpymx4mrvj4zgkrragnxulfazvfjnd80k9r0ahc55cgs6q0pkmca`  
 
-Everything else is unreliable, slow, and low priority.  
+Everything else is unreliable, slow, and has a low priority to me.  
 
 ### Also see  
 
